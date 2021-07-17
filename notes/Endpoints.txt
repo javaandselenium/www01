@@ -1,0 +1,9 @@
+BaseURL=https://api.github.com
+
+Get request: /repos/{owner}/{repo}
+
+Post request :/user/repos
+
+Patch request :/repos/{owner}/{repo}
+
+DeleteRequest : /repos/{owner}/{repo}
